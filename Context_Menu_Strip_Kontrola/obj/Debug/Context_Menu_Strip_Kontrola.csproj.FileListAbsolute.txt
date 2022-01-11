@@ -1,0 +1,10 @@
+C:\Users\sebas\source\repos\Context_Menu_Strip_Kontrola\Context_Menu_Strip_Kontrola\bin\Debug\Context_Menu_Strip_Kontrola.exe.config
+C:\Users\sebas\source\repos\Context_Menu_Strip_Kontrola\Context_Menu_Strip_Kontrola\bin\Debug\Context_Menu_Strip_Kontrola.exe
+C:\Users\sebas\source\repos\Context_Menu_Strip_Kontrola\Context_Menu_Strip_Kontrola\bin\Debug\Context_Menu_Strip_Kontrola.pdb
+C:\Users\sebas\source\repos\Context_Menu_Strip_Kontrola\Context_Menu_Strip_Kontrola\obj\Debug\Context_Menu_Strip_Kontrola.csproj.AssemblyReference.cache
+C:\Users\sebas\source\repos\Context_Menu_Strip_Kontrola\Context_Menu_Strip_Kontrola\obj\Debug\Context_Menu_Strip_Kontrola.Form1.resources
+C:\Users\sebas\source\repos\Context_Menu_Strip_Kontrola\Context_Menu_Strip_Kontrola\obj\Debug\Context_Menu_Strip_Kontrola.Properties.Resources.resources
+C:\Users\sebas\source\repos\Context_Menu_Strip_Kontrola\Context_Menu_Strip_Kontrola\obj\Debug\Context_Menu_Strip_Kontrola.csproj.GenerateResource.cache
+C:\Users\sebas\source\repos\Context_Menu_Strip_Kontrola\Context_Menu_Strip_Kontrola\obj\Debug\Context_Menu_Strip_Kontrola.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\Context_Menu_Strip_Kontrola\Context_Menu_Strip_Kontrola\obj\Debug\Context_Menu_Strip_Kontrola.exe
+C:\Users\sebas\source\repos\Context_Menu_Strip_Kontrola\Context_Menu_Strip_Kontrola\obj\Debug\Context_Menu_Strip_Kontrola.pdb
